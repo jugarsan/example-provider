@@ -3,7 +3,8 @@ class Product {
         this.id = id;
         this.type = type;
         this.name = name;
-        //this.version = version;
+        this.version = version;
+        this.tag = "test";
     }
 }
 
